@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marci\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|c:\\users\\marci\\desktop\\lojabrinquedo\\lojabrinquedo\\lojabrinquedo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|solutionrelative:lojabrinquedo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|c:\\users\\marci\\desktop\\lojabrinquedo\\lojabrinquedo\\lojabrinquedo\\repositorio\\pedidorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|solutionrelative:lojabrinquedo\\repositorio\\pedidorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|c:\\users\\marci\\desktop\\lojabrinquedo\\lojabrinquedo\\lojabrinquedo\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|solutionrelative:lojabrinquedo\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|c:\\users\\marci\\desktop\\lojabrinquedo\\lojabrinquedo\\lojabrinquedo\\repositorio\\carrinhorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|solutionrelative:lojabrinquedo\\repositorio\\carrinhorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|c:\\users\\marci\\desktop\\lojabrinquedo\\lojabrinquedo\\lojabrinquedo\\lojabrinquedo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|solutionrelative:lojabrinquedo\\lojabrinquedo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|c:\\users\\marci\\desktop\\lojabrinquedo\\lojabrinquedo\\lojabrinquedo\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|solutionrelative:lojabrinquedo\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|c:\\users\\marci\\desktop\\lojabrinquedo\\lojabrinquedo\\lojabrinquedo\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|solutionrelative:lojabrinquedo\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|c:\\users\\marci\\desktop\\lojabrinquedo\\lojabrinquedo\\lojabrinquedo\\models\\itemcarrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|solutionrelative:lojabrinquedo\\models\\itemcarrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|c:\\users\\marci\\desktop\\lojabrinquedo\\lojabrinquedo\\lojabrinquedo\\models\\itempedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|solutionrelative:lojabrinquedo\\models\\itempedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|c:\\users\\marci\\desktop\\lojabrinquedo\\lojabrinquedo\\lojabrinquedo\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|solutionrelative:lojabrinquedo\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|c:\\users\\marci\\desktop\\lojabrinquedo\\lojabrinquedo\\lojabrinquedo\\controllers\\carrinhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|solutionrelative:lojabrinquedo\\controllers\\carrinhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|c:\\users\\marci\\desktop\\lojabrinquedo\\lojabrinquedo\\lojabrinquedo\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|solutionrelative:lojabrinquedo\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\appsettings.json",
+              "RelativeDocumentMoniker": "LojaBrinquedo\\appsettings.json",
+              "ToolTip": "C:\\Users\\marci\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\appsettings.json",
+              "RelativeToolTip": "LojaBrinquedo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-16T00:37:23.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedidoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\Repositorio\\PedidoRepositorio.cs",
+              "RelativeDocumentMoniker": "LojaBrinquedo\\Repositorio\\PedidoRepositorio.cs",
+              "ToolTip": "C:\\Users\\marci\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\Repositorio\\PedidoRepositorio.cs",
+              "RelativeToolTip": "LojaBrinquedo\\Repositorio\\PedidoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T00:28:36.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\Repositorio\\ProdutoRepositorio.cs",
+              "RelativeDocumentMoniker": "LojaBrinquedo\\Repositorio\\ProdutoRepositorio.cs",
+              "ToolTip": "C:\\Users\\marci\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\Repositorio\\ProdutoRepositorio.cs",
+              "RelativeToolTip": "LojaBrinquedo\\Repositorio\\ProdutoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T00:28:25.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarrinhoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\Repositorio\\CarrinhoRepositorio.cs",
+              "RelativeDocumentMoniker": "LojaBrinquedo\\Repositorio\\CarrinhoRepositorio.cs",
+              "ToolTip": "C:\\Users\\marci\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\Repositorio\\CarrinhoRepositorio.cs",
+              "RelativeToolTip": "LojaBrinquedo\\Repositorio\\CarrinhoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T00:28:15.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LojaBrinquedo",
+              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo.csproj",
+              "RelativeDocumentMoniker": "LojaBrinquedo\\LojaBrinquedo.csproj",
+              "ToolTip": "C:\\Users\\marci\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo.csproj",
+              "RelativeToolTip": "LojaBrinquedo\\LojaBrinquedo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-16T00:27:19.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "LojaBrinquedo\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\marci\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\Models\\Produto.cs",
+              "RelativeToolTip": "LojaBrinquedo\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T00:27:04.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "LojaBrinquedo\\Models\\Pedido.cs",
+              "ToolTip": "C:\\Users\\marci\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\Models\\Pedido.cs",
+              "RelativeToolTip": "LojaBrinquedo\\Models\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T00:26:55.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItemCarrinho.cs",
+              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\Models\\ItemCarrinho.cs",
+              "RelativeDocumentMoniker": "LojaBrinquedo\\Models\\ItemCarrinho.cs",
+              "ToolTip": "C:\\Users\\marci\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\Models\\ItemCarrinho.cs",
+              "RelativeToolTip": "LojaBrinquedo\\Models\\ItemCarrinho.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T00:26:48.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ItemPedido.cs",
+              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\Models\\ItemPedido.cs",
+              "RelativeDocumentMoniker": "LojaBrinquedo\\Models\\ItemPedido.cs",
+              "ToolTip": "C:\\Users\\marci\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\Models\\ItemPedido.cs",
+              "RelativeToolTip": "LojaBrinquedo\\Models\\ItemPedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T00:26:38.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "LojaBrinquedo\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\marci\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "LojaBrinquedo\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T00:26:05.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarrinhoController.cs",
+              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\Controllers\\CarrinhoController.cs",
+              "RelativeDocumentMoniker": "LojaBrinquedo\\Controllers\\CarrinhoController.cs",
+              "ToolTip": "C:\\Users\\marci\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\Controllers\\CarrinhoController.cs",
+              "RelativeToolTip": "LojaBrinquedo\\Controllers\\CarrinhoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T00:25:52.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "LojaBrinquedo\\Controllers\\PedidoController.cs",
+              "ToolTip": "C:\\Users\\marci\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "LojaBrinquedo\\Controllers\\PedidoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T00:25:34.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
