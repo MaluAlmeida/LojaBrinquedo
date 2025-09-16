@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\marci\Desktop\LojaBrinquedo\LojaBrinquedo\LojaBrinquedo
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/marci/Desktop/LojaBrinquedo/LojaBrinquedo/LojaBrinquedo/Views/Carrinho/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FycmluaG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/marci/Desktop/LojaBrinquedo/LojaBrinquedo/LojaBrinquedo/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

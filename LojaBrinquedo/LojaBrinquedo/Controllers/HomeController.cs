@@ -1,26 +1,26 @@
 using LojaBrinquedo.Models;
+using LojaBrinquedo.Repositorio;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace LojaBrinquedo.Controllers
+namespace ProjetoLoja.Controllers
 {
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        private readonly ProdutoRepositorio _produtoRepositorio;
+
+        public HomeController(ILogger<HomeController> logger, ProdutoRepositorio produtoRepositorio)
         {
             _logger = logger;
+            _produtoRepositorio = produtoRepositorio;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
-        }
-
-        public IActionResult Privacy()
-        {
-            return View();
+            var produtos = await _produtoRepositorio.TodosProdutos();
+            return View(produtos);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
