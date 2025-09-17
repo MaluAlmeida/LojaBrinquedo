@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\3ds\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|c:\\users\\3ds\\desktop\\lojabrinquedo\\lojabrinquedo\\lojabrinquedo\\controllers\\carrinhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|solutionrelative:lojabrinquedo\\controllers\\carrinhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|c:\\users\\3ds\\desktop\\lojabrinquedo\\lojabrinquedo\\lojabrinquedo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|solutionrelative:lojabrinquedo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|c:\\users\\3ds\\desktop\\lojabrinquedo\\lojabrinquedo\\lojabrinquedo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|solutionrelative:lojabrinquedo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|c:\\users\\3ds\\desktop\\lojabrinquedo\\lojabrinquedo\\lojabrinquedo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,6 +19,26 @@
       "RelativeMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|solutionrelative:lojabrinquedo\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|c:\\users\\3ds\\desktop\\lojabrinquedo\\lojabrinquedo\\lojabrinquedo\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|solutionrelative:lojabrinquedo\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|c:\\users\\3ds\\desktop\\lojabrinquedo\\lojabrinquedo\\lojabrinquedo\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|solutionrelative:lojabrinquedo\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|c:\\users\\3ds\\desktop\\lojabrinquedo\\lojabrinquedo\\lojabrinquedo\\repositorio\\carrinhorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|solutionrelative:lojabrinquedo\\repositorio\\carrinhorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|c:\\users\\3ds\\desktop\\lojabrinquedo\\lojabrinquedo\\lojabrinquedo\\controllers\\carrinhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|solutionrelative:lojabrinquedo\\controllers\\carrinhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|c:\\users\\3ds\\desktop\\lojabrinquedo\\lojabrinquedo\\lojabrinquedo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|solutionrelative:lojabrinquedo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|c:\\users\\3ds\\desktop\\lojabrinquedo\\lojabrinquedo\\lojabrinquedo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{22083FF7-E689-4026-8F68-B8935A5096E4}|LojaBrinquedo\\LojaBrinquedo.csproj|solutionrelative:lojabrinquedo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -34,11 +50,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LojaBrinquedo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\3ds\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "LojaBrinquedo\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T10:35:42.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "LojaBrinquedo\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\3ds\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\Models\\Produto.cs",
+              "RelativeToolTip": "LojaBrinquedo\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T10:29:18.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarrinhoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\Repositorio\\CarrinhoRepositorio.cs",
+              "RelativeDocumentMoniker": "LojaBrinquedo\\Repositorio\\CarrinhoRepositorio.cs",
+              "ToolTip": "C:\\Users\\3ds\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\Repositorio\\CarrinhoRepositorio.cs",
+              "RelativeToolTip": "LojaBrinquedo\\Repositorio\\CarrinhoRepositorio.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T10:27:27.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProdutoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\Repositorio\\ProdutoRepositorio.cs",
+              "RelativeDocumentMoniker": "LojaBrinquedo\\Repositorio\\ProdutoRepositorio.cs",
+              "ToolTip": "C:\\Users\\3ds\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\Repositorio\\ProdutoRepositorio.cs",
+              "RelativeToolTip": "LojaBrinquedo\\Repositorio\\ProdutoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T10:26:18.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\appsettings.json",
               "RelativeDocumentMoniker": "LojaBrinquedo\\appsettings.json",
@@ -51,19 +119,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "LojaBrinquedo\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\3ds\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\Controllers\\HomeController.cs",
               "RelativeToolTip": "LojaBrinquedo\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T11:05:50.582Z"
+              "WhenOpened": "2025-09-16T11:05:50.582Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "PedidoController.cs",
               "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\Controllers\\PedidoController.cs",
               "RelativeDocumentMoniker": "LojaBrinquedo\\Controllers\\PedidoController.cs",
@@ -71,11 +140,12 @@
               "RelativeToolTip": "LojaBrinquedo\\Controllers\\PedidoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T11:05:49.242Z"
+              "WhenOpened": "2025-09-16T11:05:49.242Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ProdutoController.cs",
               "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\Controllers\\ProdutoController.cs",
               "RelativeDocumentMoniker": "LojaBrinquedo\\Controllers\\ProdutoController.cs",
@@ -83,24 +153,25 @@
               "RelativeToolTip": "LojaBrinquedo\\Controllers\\ProdutoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T11:05:47.535Z"
+              "WhenOpened": "2025-09-16T11:05:47.535Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "CarrinhoController.cs",
               "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\Controllers\\CarrinhoController.cs",
               "RelativeDocumentMoniker": "LojaBrinquedo\\Controllers\\CarrinhoController.cs",
               "ToolTip": "C:\\Users\\3ds\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\Controllers\\CarrinhoController.cs",
               "RelativeToolTip": "LojaBrinquedo\\Controllers\\CarrinhoController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAwwAQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-16T11:04:54.327Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\3ds\\Desktop\\LojaBrinquedo\\LojaBrinquedo\\LojaBrinquedo\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "LojaBrinquedo\\Views\\Shared\\_Layout.cshtml",
