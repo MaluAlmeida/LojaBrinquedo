@@ -1,3 +1,4 @@
+drop database LojaBrinquedo;
 create database LojaBrinquedo; 
 use LojaBrinquedo;
 
@@ -25,9 +26,9 @@ ProdutoId int not null,
 Qtd int not null, 
 PrecoUnitario decimal(10,2) not null);
 
-insert into Produto(Nome, Descricao, Preco, UrlImg, Estoque) values ('Torre', 'Jogo para raciocínio', 100.00, 'img/torre.jpg', 2);
-insert into Produto(Nome, Descricao, Preco, UrlImg, Estoque) values ('Monster', 'Diário da Draculaura', 150.00, 'img/monster.jpg', 2);
-insert into Produto(Nome, Descricao, Preco, UrlImg, Estoque) values ('Encaixa', 'Jogo de encaixar as peças', 80.00, 'img/encaixa.jpg', 2);
-insert into Produto(Nome, Descricao, Preco, UrlImg, Estoque) values ('Joaninha', 'Brinquedo interativo', 60.00, 'img/joaninha.jpg', 2);
-insert into Produto(Nome, Descricao, Preco, UrlImg, Estoque) values ('Massinha', 'Massinha de modelar', 50.00, 'img/massinha.jpg', 2);
-insert into Produto(Nome, Descricao, Preco, UrlImg, Estoque) values ('Pato', 'Brinquedo de pato', 30.00, 'img/pato.jpg', 2);
+insert into Produto(Nome, Descricao, Preco, UrlImg, Estoque) values ('Torre', 'Jogo para raciocínio', 100.00, 'img/torre.jpg', 100);
+insert into Produto(Nome, Descricao, Preco, UrlImg, Estoque) values ('Monster', 'Diário da Draculaura', 150.00, 'img/monster.jpg', 100);
+insert into Produto(Nome, Descricao, Preco, UrlImg, Estoque) values ('Encaixa', 'Jogo de encaixar as peças', 80.00, 'img/encaixa.jpg', 100);
+insert into Produto(Nome, Descricao, Preco, UrlImg, Estoque) values ('Joaninha', 'Brinquedo interativo', 60.00, 'img/joaninha.jpg', 100);
+insert into Produto(Nome, Descricao, Preco, UrlImg, Estoque) values ('Massinha', 'Massinha de modelar', 50.00, 'img/massinha.jpg', 100);
+insert into Produto(Nome, Descricao, Preco, UrlImg, Estoque) values ('Pato', 'Brinquedo de pato', 30.00, 'img/pato.jpg', 100);

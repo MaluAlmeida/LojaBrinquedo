@@ -16,11 +16,11 @@ namespace LojaBrinquedo.Models
         public string Descricao { get; set; }
 
         [Required(ErrorMessage = "O preço é obrigatório.")]
-        [Column(TypeName = "decimal(18,2)")]
+        [Column(TypeName = "decimal(10,2)")]
         [Range(0.01, double.MaxValue, ErrorMessage = "O preço deve ser maior que zero.")]
         public decimal Preco { get; set; }
 
-        [StringLength(255)]
+        [StringLength(250)]
         [Display(Name = "URL da Imagem")]
         public string UrlImg { get; set; }
 

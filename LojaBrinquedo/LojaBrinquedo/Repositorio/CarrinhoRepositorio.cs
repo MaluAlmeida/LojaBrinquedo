@@ -1,4 +1,5 @@
-﻿//newtonsoft.json é uma biblioteca para a linguagem de programação .NET que serve para serializar (converter objetos para o formato JSON) e desserializar (converter texto JSON de volta para objetos) dados JSON de forma eficiente e flexível.
+﻿/*newtonsoft.json é uma biblioteca para a linguagem de programação .NET que serve para serializar
+(converter objetos para o formato JSON) e desserializar (converter texto JSON de volta para objetos) dados JSON de forma eficiente e flexível.*/
 using LojaBrinquedo.Models;
 using Newtonsoft.Json;
 
@@ -9,6 +10,7 @@ namespace LojaBrinquedo.Repositorio
     {
         private const string CartSessionKey = "Carrinho";
 
+        //lista do carrinho
         public List<ItemCarrinho> CarrinhoItems(ISession session)
         {
             var cartJson = session.GetString(CartSessionKey);
@@ -29,7 +31,6 @@ namespace LojaBrinquedo.Repositorio
                 cart.Add(new ItemCarrinho
                 {
                     ProdutoId = produto.Id,
-                    //Produto = produto,
                     Quantidade = quantidade,
                     Preco = produto.Preco
                 });

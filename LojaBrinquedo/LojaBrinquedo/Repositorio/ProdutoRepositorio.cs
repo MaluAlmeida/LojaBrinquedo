@@ -1,4 +1,5 @@
-﻿using Dapper;
+﻿//biblioteca do mysql
+using Dapper;
 using LojaBrinquedo.Models;
 using MySql.Data.MySqlClient;
 
@@ -7,6 +8,7 @@ namespace LojaBrinquedo.Repositorio
 {
     public class ProdutoRepositorio
     {
+        //lê a estância
         private readonly string _connectionString;
 
         public ProdutoRepositorio(string connectionString)
@@ -14,6 +16,7 @@ namespace LojaBrinquedo.Repositorio
             _connectionString = connectionString;
         }
 
+        //tarefa assíncrona 
         public async Task<IEnumerable<Produto>> TodosProdutos()
         {
             using var connection = new MySqlConnection(_connectionString);
